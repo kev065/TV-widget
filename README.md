@@ -1,1 +1,1 @@
-# TV-widget
+A simple web page that displays an advanced chart widget from TradingView.
